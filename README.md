@@ -1,1 +1,0 @@
-# CRAFTED_NN

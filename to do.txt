@@ -1,0 +1,26 @@
+define activation funcs
+    reLU
+    linear
+    sigmoid
+    tanh
+    softmax
+
+class mlp?
+    define neuron
+    define weight between neurons
+    define layer
+    define matrices?
+
+apply
+    learning rate
+    divide data/recive it divided
+
+backtracking algorythm
+    search about matrix computation?
+    try using keras/tensorflow paralelization
+
+metrics
+    f1/acc/etc
+    tracking by metrics
+    early stopping
+    etc
